@@ -40,7 +40,7 @@
     "url": "https://maique.eu",
     "icon": "https://icons.duckduckgo.com/ip3/maique.eu.ico",
     "slug": "micro-maique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 170,
     "timeMonth": 210,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "dinkiwinkiminkiwinki",
