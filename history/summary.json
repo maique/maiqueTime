@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 881,
-    "timeWeek": 840,
-    "timeMonth": 902,
-    "timeYear": 875,
+    "time": 877,
+    "timeDay": 960,
+    "timeWeek": 853,
+    "timeMonth": 906,
+    "timeYear": 877,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 657,
-    "timeWeek": 624,
-    "timeMonth": 633,
-    "timeYear": 615,
+    "time": 612,
+    "timeDay": 472,
+    "timeWeek": 569,
+    "timeMonth": 629,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "micro-maique",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "96.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 215,
-    "timeDay": 183,
+    "time": 214,
+    "timeDay": 185,
     "timeWeek": 171,
     "timeMonth": 209,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-03-05": 46
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 762,
-    "timeWeek": 708,
-    "timeMonth": 720,
-    "timeYear": 703,
+    "time": 701,
+    "timeDay": 589,
+    "timeWeek": 669,
+    "timeMonth": 719,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   }
 ]
