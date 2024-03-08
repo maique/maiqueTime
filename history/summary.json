@@ -4,18 +4,20 @@
     "url": "https://notes.maique.eu",
     "icon": "https://icons.duckduckgo.com/ip3/notes.maique.eu.ico",
     "slug": "tiny-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 869,
-    "timeWeek": 867,
-    "timeMonth": 899,
-    "timeYear": 877,
-    "dailyMinutesDown": {}
+    "time": 869,
+    "timeDay": 714,
+    "timeWeek": 836,
+    "timeMonth": 882,
+    "timeYear": 869,
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   },
   {
     "name": "Boo!",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 736,
-    "timeWeek": 556,
-    "timeMonth": 628,
-    "timeYear": 615,
+    "time": 614,
+    "timeDay": 656,
+    "timeWeek": 567,
+    "timeMonth": 620,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 215,
-    "timeDay": 243,
-    "timeWeek": 179,
-    "timeMonth": 210,
-    "timeYear": 215,
+    "time": 214,
+    "timeDay": 201,
+    "timeWeek": 177,
+    "timeMonth": 209,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-03-05": 46
     }
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 947,
-    "timeWeek": 680,
-    "timeMonth": 721,
-    "timeYear": 706,
+    "time": 704,
+    "timeDay": 776,
+    "timeWeek": 685,
+    "timeMonth": 712,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   }
 ]
