@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.maique.eu.ico",
     "slug": "tiny-notes",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 871,
     "timeDay": 741,
     "timeWeek": 847,
     "timeMonth": 883,
     "timeYear": 871,
-    "dailyMinutesDown": {
-      "2024-03-08": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boo!",
