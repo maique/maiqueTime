@@ -4,18 +4,20 @@
     "url": "https://notes.maique.eu",
     "icon": "https://icons.duckduckgo.com/ip3/notes.maique.eu.ico",
     "slug": "tiny-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 864,
-    "timeWeek": 891,
-    "timeMonth": 841,
-    "timeYear": 860,
-    "dailyMinutesDown": {}
+    "time": 855,
+    "timeDay": 711,
+    "timeWeek": 849,
+    "timeMonth": 832,
+    "timeYear": 855,
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   },
   {
     "name": "Boo!",
