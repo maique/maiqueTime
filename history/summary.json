@@ -4,7 +4,7 @@
     "url": "https://notes.maique.eu",
     "icon": "https://icons.duckduckgo.com/ip3/notes.maique.eu.ico",
     "slug": "tiny-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "96.09%",
     "uptimeWeek": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 837,
     "timeYear": 856,
     "dailyMinutesDown": {
+      "2024-03-25": 0,
       "2024-03-24": 56
     }
   },
